@@ -1,0 +1,199 @@
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - No roles found !
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Manager
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Manager
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Viewing All Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Raising the Request
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Generating My Assets Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Password
+[main] INFO  com.capgemini.assetmanagement.dao.UserDAOImpl  - Successfully logged in as Admin!
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 1 for Inserting Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 2 for Updating Asset Table
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 3 for Removing Assets 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 4 for Request Form
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 5 for Status of Assets
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 6 for Allocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Select 7 for Unallocated Asset Report
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter the title you want to remove
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Your Choice of Action : 
+[main] INFO  com.capgemini.assetmanagement.controller.LoginController  - Enter Username
