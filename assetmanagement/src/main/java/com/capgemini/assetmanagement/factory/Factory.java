@@ -1,4 +1,4 @@
-package com.capgemini.assetmanagement.Factory;
+package com.capgemini.assetmanagement.factory;
 
 import com.capgemini.assetmanagement.dao.UserDAO;
 import com.capgemini.assetmanagement.dao.UserDAOImpl;

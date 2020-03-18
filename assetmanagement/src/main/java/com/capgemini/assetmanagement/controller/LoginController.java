@@ -5,7 +5,8 @@ import java.util.Scanner;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
-import com.capgemini.assetmanagement.Factory.Factory;
+import com.capgemini.assetmanagement.exception.TitleNotFoundException;
+import com.capgemini.assetmanagement.factory.Factory;
 import com.capgemini.assetmanagement.repository.UserRepository;
 import com.capgemini.assetmanagement.services.UserServices;
 
@@ -75,8 +76,9 @@ public class LoginController {
 				case 3:
 					log.info("Enter the title you want to remove");
 					title = sc.next();
-					userServices.removeAssets(title);
 
+					userServices.removeAssets(title);
+//						
 					break;
 				case 4:
 					userServices.viewAllAssets();
@@ -110,6 +112,3 @@ public class LoginController {
 	}
 
 }
-
-	
-

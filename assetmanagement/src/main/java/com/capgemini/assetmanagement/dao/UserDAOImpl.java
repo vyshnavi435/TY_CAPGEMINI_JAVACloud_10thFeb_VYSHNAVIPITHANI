@@ -6,8 +6,8 @@ import java.util.List;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
-import com.capgemini.assetmanagement.Factory.Factory;
 import com.capgemini.assetmanagement.exception.TitleNotFoundException;
+import com.capgemini.assetmanagement.factory.Factory;
 import com.capgemini.assetmanagement.repository.AssetRepository;
 import com.capgemini.assetmanagement.repository.UserRepository;
 
@@ -100,16 +100,19 @@ public class UserDAOImpl implements UserDAO {
 				count++;
 				if (count > 0) {
 					viewNewList.remove(i);
-					System.out.println("Asset removed successfully !");
+					log.info("Asset removed successfully !");
 				} else {
-					throw new TitleNotFoundException("nhhhh");
+					try {
+						throw new TitleNotFoundException();
+					} catch (TitleNotFoundException te) {
+						log.info(te.getMessage());
+						
+					}
 				}
-
+			
 			}
 
 		}
-
 		return true;
 	}
 }
-// public boolean assetRequest(asset)
