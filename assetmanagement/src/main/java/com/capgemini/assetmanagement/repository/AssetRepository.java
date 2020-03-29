@@ -57,7 +57,7 @@ public class AssetRepository {
 
 		HashMap<String, Object> assetHashMap5 = new HashMap<String, Object>();
 		AssetBean asset5 = new AssetBean(5, "Acer", "laptop", 11, 27000);
-		assetHashMap5.put("AssetId", asset5.getAssetId());
+		assetHashMap5.put("AssetId", asset4.getAssetId());
 		assetHashMap5.put("Title", asset5.getTitle());
 		assetHashMap5.put("Category", asset5.getCategory());
 		assetHashMap5.put("Quantity", asset5.getQuantity());

@@ -12,7 +12,6 @@ import com.capgemini.assetmanagement.repository.AssetRepository;
 import com.capgemini.assetmanagement.repository.UserRepository;
 
 public class UserDAOImpl implements UserDAO {
-
 	String userRole = null;
 	AssetRepository assetRepository = Factory.getAssetRepository();
 	UserRepository userRepository = Factory.getUserRepository();
@@ -96,23 +95,24 @@ public class UserDAOImpl implements UserDAO {
 	public boolean removeAssets(String title) {
 
 		for (int i = 0; i < viewNewList.size(); i++) {
-			if (title.equals(viewNewList.get(i).get("Title"))) {
-				count++;
-				if (count > 0) {
-					viewNewList.remove(i);
-					log.info("Asset removed successfully !");
-				} else {
-					try {
-						throw new TitleNotFoundException();
-					} catch (TitleNotFoundException te) {
-						log.info(te.getMessage());
-						
+
+			try {
+
+				if (title.equals(viewNewList.get(i).get("Title"))) {
+					count++;
+					if (count > 0) {
+						viewNewList.remove(i);
+						System.out.println("Asset removed successfully !");
+
 					}
-				}
-			
+				} 
+
+			} catch (TitleNotFoundException e) {
+				e.printStackTrace();
 			}
 
 		}
-		return true;
+		return false;
+
 	}
 }

@@ -2,8 +2,6 @@ package com.capgemini.assetmanagement.dao;
 
 import java.util.List;
 
-import com.capgemini.assetmanagement.exception.TitleNotFoundException;
-
 import java.util.HashMap;
 
 public interface UserDAO {

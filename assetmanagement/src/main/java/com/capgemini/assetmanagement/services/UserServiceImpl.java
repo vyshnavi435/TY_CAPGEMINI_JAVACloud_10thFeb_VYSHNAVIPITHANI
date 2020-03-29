@@ -36,7 +36,7 @@ public class UserServiceImpl implements UserServices {
 	}
 
 	@Override
-	public boolean removeAssets(String title) {
+	public boolean removeAssets(String title) throws TitleNotFoundException{
 
 		return userDAO.removeAssets(title);
 	}

@@ -78,7 +78,7 @@ public class LoginController {
 					title = sc.next();
 
 					userServices.removeAssets(title);
-//						
+
 					break;
 				case 4:
 					userServices.viewAllAssets();
